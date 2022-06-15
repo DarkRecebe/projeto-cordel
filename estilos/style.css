@@ -40,8 +40,8 @@ header a:hover{
 }
 
 section{
-    padding-top: 8vh;
-    padding-bottom: 8vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: 'Sriracha', 'Cursive';
@@ -54,7 +54,7 @@ section > p{
 
 section#paragrafo-2{
     background-image: url(../imagens/background001.jpg);
-    background-position: right center;
+    background-position: center center;
 }
 
 section#paragrafo-5{
